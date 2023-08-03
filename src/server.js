@@ -1,3 +1,3 @@
-export const server = "https://https://sinsaiback.cyclic.cloud/";
+export const server = "https://sinsaiback.onrender.com/api/v2";
 
 
